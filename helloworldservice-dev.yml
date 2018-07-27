@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: real # 기본 환경 선택
+server:
+  port: 8050
+message: real
