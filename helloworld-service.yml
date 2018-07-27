@@ -3,6 +3,7 @@ spring:
     active: local # 기본 환경 선택
 server:
   port: 8011
+message: sss
 
 # local 환경
 ---
