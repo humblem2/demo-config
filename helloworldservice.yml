@@ -2,5 +2,5 @@ spring:
   profiles:
     active: local # 기본 환경 선택
 server:
-  port: 8011
+  port: 8019
 message: sss
